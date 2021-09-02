@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tuyenlc/static/css/main.563a29a2.chunk.css",
-    "main.js": "/tuyenlc/static/js/main.a03e44a5.chunk.js",
-    "main.js.map": "/tuyenlc/static/js/main.a03e44a5.chunk.js.map",
+    "main.js": "/tuyenlc/static/js/main.74ca5335.chunk.js",
+    "main.js.map": "/tuyenlc/static/js/main.74ca5335.chunk.js.map",
     "runtime-main.js": "/tuyenlc/static/js/runtime-main.4203e3f9.js",
     "runtime-main.js.map": "/tuyenlc/static/js/runtime-main.4203e3f9.js.map",
     "static/css/2.818011ed.chunk.css": "/tuyenlc/static/css/2.818011ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.b19e9c08.chunk.js",
     "static/css/main.563a29a2.chunk.css",
-    "static/js/main.a03e44a5.chunk.js"
+    "static/js/main.74ca5335.chunk.js"
   ]
 }
